@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "11gwmsMzDXxGf4rYS3sSGPm6FZ+D9YEtTiZ3f6SiZgE=",
+  "Source": "EShopeApi",
+  "BasePath": "_content/EShopeApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
